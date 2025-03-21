@@ -1,2 +1,2 @@
 # Wokwi
-Exercícios usando o Wokwi
+Exercises using Wokwi
